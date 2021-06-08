@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#Chowdury{
+    color: rgba(236, 1, 131, 0.856);
+    font-size: 35px;
+}
+#link{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(243, 39, 3), rgb(217, 236, 38) );
+    color: white;
+    font: bold;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
+section{
+    padding-bottom: 100px;
+}
+
+.part-1{
+    width: 40%;
+    margin: 3%;
+    float: left;
+}
+.part-1 img{
+    height: 450px;
+    width: 350px;
+}
+.top-banner{
+background-image: url("bgimg.jpeg");
+height: 500px;
+}
+.biography{
+    background-image: url("WhatsApp Image 2021-05-19 at 11.47.48 AM.jpeg");
+    height: 500px;
+    
+}
+.image img{
+    width: 25%;
+    margin: 30px;
+}
+.work{
+ 
+  left: 500px;
+}
+.email{
+    background: linear-gradient(90deg, rgb(230, 74, 165), tomato);
+    color: white;
+    margin: 50px 400px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    text-align: center;
+    
+    
+}
+.mail{
+    font-size: 25px;
+    font: bold;
+}
+.lorem{
+    text-align: center;
+}
+.middleimage{
+    position: relative;
+    top: 50px;
+}
